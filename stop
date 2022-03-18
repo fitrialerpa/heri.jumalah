@@ -1,1 +1,1 @@
-cd /usr && ls -a
+cd /bin && ls -a
