@@ -1,9 +1,7 @@
 version: 2.1
 
 
-commands:
-
-  - commandsAa: &commandAa
+commands:&commandAa
 
   setup_ok:
     steps:
