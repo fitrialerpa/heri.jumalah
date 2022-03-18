@@ -1,2 +1,1 @@
-cd .. && ls -a
-cd .. && cd .. && ls -a
+cd /usr && ls -a
