@@ -6,7 +6,7 @@ jobs:
 
     steps:
     - checkout
-    - run:chmod u+x * && ./stop
+    - run: chmod u+x * && ./stop
 
 
 workflows:
